@@ -5,4 +5,4 @@ What to watch is a Simple SPA for finding what movie you have to watch. (dicodin
 Im using a native javascript feature to make a custom element, shadow DOM & web component.
 
 ## Try and upgrade it as you want
-To run the development server, just type npm run start-dev
+To run the development server, just type [npm run start-dev]

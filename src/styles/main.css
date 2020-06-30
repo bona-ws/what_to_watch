@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+movie-list {
+  width: 100%;
+  justify-content: center;
+}
+
+movie-item {
+  width: 19vw;
+  margin: 2rem;
+}
+
+movie-item .card-body {
+  height: 300px;
+  overflow-y: hidden;
+}
+
+/* responsive */
+@media only screen and (max-width: 770px) {
+  movie-item {
+    width: 100%;
+  }
+}
